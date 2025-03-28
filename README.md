@@ -5,9 +5,6 @@ Flappy Bird is a simple yet addictive game where players control a bird that mus
 
 ## Tech Stack
 - **Frontend:** React (for game UI)
-- **Backend:** Node.js & Express (for game logic and score storage)
-- **Database:** MongoDB (to store player scores)
-- **Other Tools:** Socket.io (for real-time interactions), Canvas API (for rendering the game)
 
 ---
 
@@ -17,3 +14,8 @@ Flappy Bird is a simple yet addictive game where players control a bird that mus
  - I am using the `npm create vite@latest` command to create a new React app.
  - I have installed the necessary dependencies for the frontend and backend.
  - I have set up the server and client folders for the backend and frontend, respectively.
+
+## Day 2 - Creating Home Page(Start Page)
+ - I have created Home page for the game which contains a simple flying bird and start button.
+ - I have use framer motion for simple animations
+ - I use tailwind css for styling
