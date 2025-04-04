@@ -19,3 +19,5 @@ Flappy Bird is a simple yet addictive game where players control a bird that mus
  - I have created Home page for the game which contains a simple flying bird and start button.
  - I have use framer motion for simple animations
  - I use tailwind css for styling
+
+## Day 3 - Completed Game
